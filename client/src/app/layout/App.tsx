@@ -1,9 +1,8 @@
-
-
 import { Container, CssBaseline, ThemeProvider, createTheme } from "@mui/material";
 import Atent from "./Header";
 import { useState } from "react";
 import { Outlet } from "react-router-dom";
+import "../../app/../App.css"
 
 
 function App() {

@@ -30,7 +30,8 @@ export default function Catalog() {
   
   return (
     <>
-      <ListaProduse produse={produse} />
-    </>
+    <ListaProduse produse={produse} />
+   </>
+   
   );
 }
